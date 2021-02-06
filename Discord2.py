@@ -7,7 +7,7 @@ import time
 import json
 
 
-telegram_token = '1472069887:AAGqI2csyTUzCPbsRlXyrGC00RaNGaG_1n4'
+telegram_token = ''
 bot = telepot.Bot(telegram_token)
 client = discord.Client()
 
@@ -38,4 +38,4 @@ async def on_message(message):
 
     
 
-client.run("MTQwOTExNzI4OTc5MzQ1NDA4.X-hWMA.z_ZivxZ6GFft7vmWY7-jD2aznWM",bot=False)
+client.run("",bot=False)
