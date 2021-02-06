@@ -14,7 +14,7 @@ api_id = ''
 api_hash = ''
 
 # your phone number
-phone = "+14755229513"
+phone = ""
 
    
 client = TelegramClient('session', api_id, api_hash) 
